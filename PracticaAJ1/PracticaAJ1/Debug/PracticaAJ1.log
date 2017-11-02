@@ -1,0 +1,30 @@
+﻿  trap.cpp
+  sys_win.cpp
+d:\visual studio\projects\practica-aqruitectura\practicaaj1\practicaaj1\sys_win.cpp(129): warning C4100: 'lpCmdLine': parámetro formal sin referencia
+d:\visual studio\projects\practica-aqruitectura\practicaaj1\practicaaj1\sys_win.cpp(129): warning C4100: 'hPrevI': parámetro formal sin referencia
+  screen.cpp
+  platform.cpp
+  graphicmotor.cpp
+  main.cpp
+  lodepng.cpp
+  input.cpp
+  human.cpp
+  gamemode.cpp
+  mainmenu.cpp
+  menugameover.cpp
+  math.cpp
+  languagemenu.cpp
+  goal.cpp
+  game.cpp
+  font.cpp
+  example.cpp
+  entitybase.cpp
+  enemy.cpp
+  Generando código...
+  Compilando...
+  endmenu.cpp
+  core.cpp
+  collisions.cpp
+  Generando código...
+  PracticaAJ1.vcxproj -> D:\Visual Studio\Projects\practica-aqruitectura\PracticaAJ1\Debug\PracticaAJ1.exe
+  PracticaAJ1.vcxproj -> D:\Visual Studio\Projects\practica-aqruitectura\PracticaAJ1\Debug\PracticaAJ1.pdb (Partial PDB)
